@@ -10,6 +10,8 @@ This document clearly describes the use of object-oriented programming using Jav
 # What about the process of working through a design document did you find helpful when developing the code?
 Referring to the software design document was helpful in terms of keeping the client's requirments in mind and having the reference to go back to while developing the code.  The most useful part of the document was the UML diagram.  This served as a quick reference for the required aspects of the code that needed to be created, including all instance variables and methods as well as whether those variables and methods should be created as public or private.  It also clearly defined how the classes should be created within the overall package.
 
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would spend more time on the overall evaluation of the pros and cons of the different operating systems.  I think this part is important to making the best recommendation to the client.  I would start by asking more questions of the client to determine if they had any budget constraints or other considerations, such as knowledge of the different operating systems, that they would like to take into account in terms of picking the best operating system for the server and the client.
+
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
